@@ -2,4 +2,6 @@ if game.PlaceId == 11217941123 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/imstupid1/Stupid-Idiot-Cafe/main/q"))()
 elseif game.PlaceId == 6741970382 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/imstupid1/Zombie-Lab/main/Script"))()
+elseif game.PlaceId == 8077862388 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/imstupid1/The-W/main/script"))()
 end
