@@ -8,4 +8,6 @@ elseif game.PlaceId == 9127979316 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/imstupid1/Goo-Animal-Simulator/main/script"))()
 elseif game.PlaceId == 5041144419 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/imstupid1/SCP-Roleplay/main/Script"))()
+elseif game.PlaceId == 445664957 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/imstupid1/Parkour/main/Script"))()
 end
